@@ -1,0 +1,13 @@
+indicator,subgroup,first_12m_mean_pct,last_12m_mean_pct,change_pct,slope_pp_per_year,slope_p
+All Opioids,Large Central & Fringe Metro Areas,0.977,0.797,-18.4,-0.216,0.001
+All Opioids,Medium & Small Metro Areas,1.005,0.959,-4.6,-0.033,0.304
+All Opioids,Rural Areas,0.537,0.501,-6.6,-0.05,0.13
+All Opioids,Total,0.955,0.848,-11.2,-0.119,0.001
+Cannabis,Large Central & Fringe Metro Areas,0.913,0.918,0.5,-0.011,0.738
+Cannabis,Medium & Small Metro Areas,1.266,0.86,-32.1,-0.346,0.0
+Cannabis,Rural Areas,0.617,0.773,25.2,0.125,0.034
+Cannabis,Total,1.054,0.879,-16.6,-0.156,0.0
+Stimulants,Large Central & Fringe Metro Areas,0.691,0.604,-12.6,-0.116,0.007
+Stimulants,Medium & Small Metro Areas,0.806,0.729,-9.5,-0.072,0.008
+Stimulants,Rural Areas,0.365,0.324,-11.1,-0.012,0.615
+Stimulants,Total,0.718,0.639,-11.0,-0.088,0.001
