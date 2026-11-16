@@ -1,3 +1,9 @@
+> **요약 (Korean summary)**
+> 미국 CDC 표본 병원의 약물 관련 응급실 방문 자료(2023.08~2025.07)를 병원 소재지(대도시·중소도시·농촌)별로 분석했습니다.
+> - 오피오이드 관련 방문은 첫해 대비 11% 감소했고, 감소는 대도시권(−18%)에 집중되었습니다.
+> - 오피오이드와 대마초 사이의 대체 관계, 도시–농촌 간 ‘풍선 효과’는 통계적으로 확인되지 않았습니다.
+> - 1차 분석의 오류(이동평균으로 부풀려진 상관계수, 정책 시행 이전 자료 부재)를 바로잡고, 바뀐 점을 아래 [What changed from v1]에 정리했습니다.
+
 # Drug-Related ED Visits in U.S. Hospitals by Urban–Rural Location, 2023–2025
 
 Monthly opioid-, cannabis- and stimulant-related emergency department (ED) visits in a CDC sample of U.S. hospitals, compared across large metro, medium/small metro and rural hospitals.
